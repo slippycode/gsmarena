@@ -2,6 +2,7 @@
     "name": "slippy/gsmarena",
     "description": "GSMARENA Unofficial api",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Slippy Code",
