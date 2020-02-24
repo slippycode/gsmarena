@@ -1,0 +1,12 @@
+{
+    "name": "slippy/gsmarena",
+    "description": "GSMARENA Unofficial api",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Slippy Code",
+            "email": "slippy.code@gmail.com"
+        }
+    ],
+    "require": {}
+}
