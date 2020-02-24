@@ -8,7 +8,9 @@
             "email": "slippy.code@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
     "autoload": {
         "files": [
             "lib/simple_html_dom.php"
