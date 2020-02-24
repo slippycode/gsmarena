@@ -8,5 +8,10 @@
             "email": "slippy.code@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": [
+            "lib/simple_html_dom.php"
+        ]
+    }
 }
